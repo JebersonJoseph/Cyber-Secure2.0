@@ -1,0 +1,5 @@
+{
+  "name": "Scam Detector AI",
+  "description": "An AI-powered chatbot that analyzes messages, links, and images to detect potential scams. It provides a risk assessment, detailed explanations of scam tactics, and educational content to help users stay safe online.",
+  "requestFramePermissions": []
+}
